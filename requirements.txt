@@ -1,0 +1,11 @@
+streamlit 
+requests
+gtts
+spacy
+textblob 
+diff-match-patch 
+numpy 
+soundfile 
+transformers 
+accelerate 
+torch
